@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/cassava-leaf-disease-classification/mlruns/0/20751de210474a2b95f3914149e3415f/artifacts
+end_time: 1612889046965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 20751de210474a2b95f3914149e3415f
+run_uuid: 20751de210474a2b95f3914149e3415f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1612889045085
+status: 3
+tags: []
+user_id: root
